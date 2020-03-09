@@ -1,0 +1,6 @@
+# QuiltingApp
+Prototype for an Android quilting app I've been working on, I coded this up originally as my final project for a Mobile and Ubiquitous Computing class, but I've been kicking around a similar idea for significantly longer.
+
+The basic idea of the app is that quilters should be able to use it to help them organize their various projects and materials, to make it easier to keep track of things. At the moment, it is in a fairly basic form, just offering a list of projects that can be added to and edited, and I haven't put too much work into making it look nice yet either.  Still, it's a nice proof of concept, and it should make a good base for later expansion.
+
+Future plans for expansion of the app, provided I have the time, are to finish implementing the ability to delete projects, and then adding tabs in the main activity, which will be used to navigate to additional lists for keeping track of fabric and thread. Additionally, I would like to add the ability to access and copy from the phone's photo gallery, in order to track and store photos related to a project or material.  Then of course I would like to add options for sorting the various lists, to further improve organization, and add the ability to associate materials with a project, likely as foreign keys through the SQLite database I'm using for storage.
