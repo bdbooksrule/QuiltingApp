@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuiltingApp</string>
+    <string name="tab_text_1">Projects</string>
+    <string name="tab_text_2">Fabrics</string>
+    <string name="tab_text_3">Threads</string>
+    <string name="pactivityname">ProjectActivity</string>
+    <string name="project_title">Project Title</string>
+    <string name="notes">Notes:</string>
+    <string name="photos_label_p">Photos</string>
+    <string name="add_image_p">Add Image</string>
+    <string name="designer_label">Designer</string>
+    <string name="status_label">Status</string>
+    <string name="add_project_label">Add Project</string>
+    <string name="fabrics">Fabrics</string>
+    <string name="savebuttonlabel">Save</string>
+    <string name="delete_button_label">Delete</string>
+</resources>
